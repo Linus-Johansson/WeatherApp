@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Weather App</string>
+    <string name="title_msg">Oops!, Sorry</string>
+    <string name="error_msg">There was an error, Please try again</string>
+    <string name="confirm_btn">OK</string>
+    <string name="network_unAvailble_msg">Sorry, network is unAvailble</string>
+</resources>
